@@ -1,0 +1,628 @@
+  <loc>https://www.uu.se/utbildning/program/speciallararprogrammet-lararlyftet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-matematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/biomedicinska-analytikerprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-hallbar-utveckling</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-estetik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/logopedprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kpu-gymnasieskolan</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kpu-7-9</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-religionsbeteendevetenskap-och-praktisk-teologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-bibelvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biomedicin</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-idehistoria</loc>
+
+  <loc>https://www.uu.se/utbildning/program/basar-amneslarare</loc>
+
+  <loc>https://www.uu.se/utbildning/program/basar-naturvetenskapligt-kandidatprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/basar-hogskoleingenjor</loc>
+
+  <loc>https://www.uu.se/utbildning/program/basar-civilingenjor</loc>
+
+  <loc>https://www.uu.se/utbildning/program/bastermin-kandidatprogram-datavetenskap-fysik-matematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/bastermin-kandidatprogram-biologi-kemi-geovetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/bastermin-hogskoleingenjor</loc>
+
+  <loc>https://www.uu.se/utbildning/program/bastermin-civilingenjor</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kpu-gymnasieskolan/undervisningsamnen</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-bioinformatik-biologibakgrund</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-bioinformatik-datavetenskaplig-bakgrund</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kompletteringsutbildning-for-apotekare-med-utlandsk-examen</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-psykiatrisk-vard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-egyptologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/sprakvetarprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-arkeologi-och-antik-historia</loc>
+
+  <loc>https://www.uu.se/utbildning/program/barnmorskeprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-hallbar-och-innovativ-hantering-av-naturresurser-sinrem</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fysik-meteorologi-klimatfysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-vindkraftsprojektering/roster-om-programmet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-vindkraftsprojektering/roster-om-programmet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-statistik-och-dataanalys</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-redovisning-och-finansiering-strategisk-ekonomistyrning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-foretagande-och-ledning-organisation</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-foretagande-och-ledning-marknadsforing</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-foretagande-och-ledning-internationellt-foretagande</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-medicinsk-forskning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-euroculture</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-fysikalisk-kemi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/sprakvetarprogrammet/praktik-inom-programmet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-genusvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-global-miljohistoria</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-redovisning-och-finansiering-redovisning-bolagsstyrning-och-finansiell-analys</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-foretagande-och-ledning-entreprenorskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/samhallsvetarprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-speldesign</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologi-nabis-samnordisk-inriktning-mot-biodiversitet-och-systematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologi-miljotoxikologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologi-immunologi-och-mikrobiologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologi-evolutionsbiologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologi-ekosystem-och-akvatisk-ekologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologi-cell-och-molekylarbiologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologi-ekologi-och-naturvard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/foremalsantikvarieprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-biologi/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-molekylar-medicin</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-musikvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-klinisk-farmaci</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kostvetarprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/fysioterapeutprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-kultur-och-samhallsanalys</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-teknisk-fysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/ekonomie-kandidatprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/retorikprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/litteraturvetarprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-folkhalsa</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-digital-humaniora</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-litteraturvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-retorik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-ambulanssjukvard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-intensivvard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/forskollararprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/ekonomie-kandidatprogram/har-du-last-nagon-av-programmets-kurser-tidigare</loc>
+
+  <loc>https://www.uu.se/utbildning/program/religionsvetarprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/teologprogrammet-kristendom-i-historia-och-nutid</loc>
+
+  <loc>https://www.uu.se/utbildning/program/teologprogrammet-islam-i-historia-och-nutid</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-manskliga-rattigheter</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-kinesiska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-kemiteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/byggnadsantikvarieprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kulturarv-och-hallbarhet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-pedagogik-barn-unga</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-evolutionsbiologi-meme</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-speldesign-och-programmering</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-globala-marknader-och-lokal-kreativitet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-elektroteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/receptarieprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fysik-astronomi-och-rymdfysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-maskinteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-abm-musei-och-kulturarvsvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-abm-biblioteks-och-informationsvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-abm-arkivvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-matematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-fysik-astronomi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fysik-matematisk-fysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fysik-karn-och-partikelfysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fysik-hallbar-energi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-religion-fred-konflikt</loc>
+
+  <loc>https://www.uu.se/utbildning/program/sjukskoterskeprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-onkologisk-vard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-anestesisjukvard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-akutsjukvard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-diabetesvard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-distriktsskoterska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-halso-och-sjukvard-for-barn-och-ungdomar</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-kirurgisk-vard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/specialistsjukskoterskeprogrammet-operationssjukvard</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-global-halsa</loc>
+
+  <loc>https://www.uu.se/utbildning/program/biomedicinprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-innovativ-medicin</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-allman-inriktning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-etik-och-religionsfilosofi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-kyrkohistoria-och-missionshistoria</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-religionshistoria-och-global-kristendom</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fysik-teoretisk-fysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-rysslands-och-eurasienstudier</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-matematik-tillampad-matematik-och-statistik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-egyptologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/samhallsplaneringsprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/humanioraprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-miljo-och-vattenteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-matematik-finansiell-matematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-matematik-matematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-filosofi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kpu-7-9/undervisningsamnen</loc>
+
+  <loc>https://www.uu.se/utbildning/program/komprimerad-kpu-7-9/undervisningsamnen</loc>
+
+  <loc>https://www.uu.se/utbildning/program/komprimerad-kpu-gymnasieskolan/undervisningsamnen</loc>
+
+  <loc>https://www.uu.se/utbildning/program/grundlararprogrammet-4-6</loc>
+
+  <loc>https://www.uu.se/utbildning/program/grundlararprogrammet-f-3</loc>
+
+  <loc>https://www.uu.se/utbildning/program/psykoterapeutprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-biologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-medicinsk-teknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-karnkraftteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-byggteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-teknisk-fysik-med-materialvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-system-teknik-och-samhalle</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-molekylar-bioteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-informationsteknologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-energisystem</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-elektroteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-industriell-ekonomi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-antikens-kultur-och-samhallsliv</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-arkeologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-biologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-kemi-biologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-management-kommunikation-och-it</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-teknik-matematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-tyska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-svenska-som-andrasprak</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-svenska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-spanska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-kemi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-fysik-matematik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-franska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-engelska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-materialvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-speldesign</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-lakemedelsmodellering</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biologiska-lakemedel</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-teoretisk-kemi-och-berakningskemi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-studier-kring-forintelsen-och-folkmord</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-historia</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-organisk-kemi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-svenska-svenska-och-andra-nordiska-sprak</loc>
+
+  <loc>https://www.uu.se/utbildning/program/nordiskt-masterprogram-miljoratt</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-inbyggda-system</loc>
+
+  <loc>https://www.uu.se/utbildning/program/apotekarprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-geovetenskap-paleobiologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-musikvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-konstvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-tidigmodern-tid</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kulturantropologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-skandinavistik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-modern-historia</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-hallbart-foretagande-och-ledning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-biologi-samhallsvetare</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-samhallskunskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-etnologi-och-folkloristik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprakteknologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-engelska-engelsk-litteratur</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-engelska-amerikansk-litteratur-och-kultur</loc>
+
+  <loc>https://www.uu.se/utbildning/program/juristprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/lantmateriprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-vindkraftsprojektering</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-arkeologi-och-osteologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-geovetenskap-naturgeografi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/socionomprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-textilvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-speldesign-och-grafik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-religionskunskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-speldesign-och-projektledning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-svenska-flersprakighet-och-svenska-som-andrasprak</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-vindkraftsprojektering</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-lakemedelsutveckling</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-geovetenskap-geologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-infektionsbiologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kvantteknologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-bio-och-nanomaterial</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-geovetenskap-hydrologi-hydrogeologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-geovetenskap-samhallsvetare-ingang-for-samhallsvetare</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-analytisk-kemi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-datavetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-kultur-samhalle-och-etnografi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-implementering-transformativt-larande-och-hallbarhet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-batteriteknik-och-energilagring</loc>
+
+  <loc>https://www.uu.se/utbildning/program/program-med-inriktning-mot-personal-och-arbetslivsfragor</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-kemisk-biologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/historikerprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-systemvetenskap-systemutveckling</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-geovetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-digital-konstvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-dataanalys-data-engineering</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-forensisk-vetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-dataanalys-maskininlarning-och-statistik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-analytisk-kemi-each</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kompletteringsutbildning-for-biomedicinska-analytiker-med-utlandsk-examen</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-kemi-for-fornybar-energi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-energiomstallning-hallbarhet-och-ledarskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-transformativ-speldesign</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-systematisk-teologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-social-hallbarhet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sociologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-kemi-biologi/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fysik-geofysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kompletteringsutbildning-for-apotekare-med-utlandsk-examen/sa-raknas-dina-meriter</loc>
+
+  <loc>https://www.uu.se/utbildning/program/rontgensjukskoterskeprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/politices-kandidatprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-psykologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-pedagogiskt-ledarskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/arbetsterapeutprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/psykologprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-medie-och-kommunikationsvetenskap-och-journalistik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-fornybar-elgenerering</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-fysik-meteorologi-klimatfysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/sociologiprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-samhallsplanering-miljo-resurser-och-globalisering</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-fysik-fysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/speciallararprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-vattenteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-nationalekonomi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-industriell-ledning-och-innovation</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-industriell-analys</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-ledarskap-kvalitet-forbattring</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-ledarskap-kvalitet-forbattring-distans</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-freds-och-utvecklingsstudier</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-grekiska-och-bysantinologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-slaviska-sprak</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-turkiska-sprak</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-samhallsvetenskap-socialt-arbete</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-samhallsvetenskap-samhallsplanering-och-kulturgeografi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-samhallsvetenskap-psykologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-samhallsvetenskap-digitala-medier-och-samhalle</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-lakemedelsanvandning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-juridik-for-socialt-arbete</loc>
+
+  <loc>https://www.uu.se/utbildning/program/politices-masterprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/politices-kandidatprogram/utbyte-och-praktik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biomedicinsk-laboratorievetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/lakarprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/politices-masterprogram/utbyte-och-praktik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-biofysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-fysik-geofysik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-internationell-investeringsratt</loc>
+
+  <loc>https://www.uu.se/utbildning/program/politices-kandidatprogram/fragor-om-programmet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-turkiska-studier</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-systemvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-manniska-datorinteraktion</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-systemvetenskap-programvaruteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-digital-affarsutveckling</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-ryska-spraket-internationella-relationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-tyska</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-romanska-sprak</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-lingvistik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-sprak-finsk-ugriska-sprak</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-engelska-med-globala-perspektiv</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-engelska-engelsk-sprakvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-paleobiologi-pangea</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-precisionsmedicin</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-medicinsk-nuklidteknik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kompletteringsutbildning-for-psykologer-med-utlandsk-examen</loc>
+
+  <loc>https://www.uu.se/utbildning/program/beteendevetenskapligt-kandidatprogram</loc>
+
+  <loc>https://www.uu.se/utbildning/program/dietistprogrammet</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-kemi-biokemi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-kemi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-freds-och-konfliktstudier</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-additiv-tillverkning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-samhallsvetenskap-ekonomisk-historia</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-elektriska-framdrivningssystem</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-utbildningsvetenskap-utbildningssociologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-utbildningsvetenskap-specialpedagogik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-utbildningsvetenskap-pedagogik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-utbildningsvetenskap-didaktik</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-utbildningsvetenskap-barn-och-ungdomsvetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-utbildningssociologi</loc>
+
+  <loc>https://www.uu.se/utbildning/program/komprimerad-kpu-gymnasieskolan</loc>
+
+  <loc>https://www.uu.se/utbildning/program/komprimerad-kpu-7-9</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-international-humanitarian-action</loc>
+
+  <loc>https://www.uu.se/utbildning/program/magisterprogram-humanitart-arbete-vid-konflikter</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-datavetenskap</loc>
+
+  <loc>https://www.uu.se/utbildning/program/masterprogram-bildanalys-och-maskininlarning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/civilingenjorsprogrammet-informationsteknologi/amnesfordelning</loc>
+
+  <loc>https://www.uu.se/utbildning/program/kandidatprogram-matematik/skugga-en-student</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-franska/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-engelska/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-historia/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-kemi/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-matematik/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-religionskunskap/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-samhallskunskap/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-spanska/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-svenska/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-svenska-som-andrasprak/amneskombinationer</loc>
+
+  <loc>https://www.uu.se/utbildning/program/amneslararprogrammet-tyska/amneskombinationer</loc>
+

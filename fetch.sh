@@ -1,0 +1,2 @@
+# just run this in your terminal and you will be given the raw data. Make sure to run from the right directory LLMCOURSE
+curl -s "https://www.uu.se/download/18.7f7c20f41984f683c7d77f/1757222317070/pages-static-1.xml" > rawText.txt
