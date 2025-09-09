@@ -21,3 +21,5 @@ with open("links.txt", "w", encoding="utf-8") as f:
         print(link)           
         f.write(f"{link}\n") 
 
+# Hej/Olle
+
