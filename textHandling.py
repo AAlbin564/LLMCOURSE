@@ -18,8 +18,12 @@ for link in matchingLinks:
 
 with open("links.txt", "w", encoding="utf-8") as f:
     for link in matchingLinks:
-        print(link)           
-        f.write(f"{link}\n") 
+        print(link)        
+        result = link.replace("<loc>", "")  
+        result = result.replace("</loc>", "")
+        result = result.strip()
+        print(result)
+        f.write(f"{result}\n") 
 
 # Hej/Olle
 
