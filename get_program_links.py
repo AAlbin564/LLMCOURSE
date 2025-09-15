@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 matchingLinks = []
-filepath = "rawText.txt"
+filepath = "sitemap_links.txt"
 
 file = open(filepath, "r")
 
@@ -16,7 +16,7 @@ file.close()
 for link in matchingLinks:
     print(f"{link}\n")
 
-with open("links.txt", "w", encoding="utf-8") as f:
+with open("program_links.txt", "w", encoding="utf-8") as f:
     for link in matchingLinks:
         print(link)        
         result = link.replace("<loc>", "")  
@@ -25,5 +25,4 @@ with open("links.txt", "w", encoding="utf-8") as f:
         print(result)
         f.write(f"{result}\n") 
 
-# Hej/Olle
 
