@@ -3,8 +3,8 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-LINKS_FILE = "testlink.txt"
-OUT_JSONL = "program_descriptions2.jsonl"
+LINKS_FILE = "program_links.txt"
+OUT_JSONL = "program_descriptions.jsonl"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; LLMcouse-chatbot/1.0)"}
 
 # ---------------- Hjälpfunktioner ----------------
