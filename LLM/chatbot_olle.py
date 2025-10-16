@@ -7,7 +7,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
-
+from ragLogic import setup_chroma, setup, chunkingData
 
 
 
@@ -25,8 +25,24 @@ Your task is to help prospective students choose a programme that matches their 
 """
 
 def get_context(question: str) -> str:
-    # TODO: swap this with: retriever.get_relevant_documents(question) -> format as text
-    return "(no retrieved context yet — plug in your retriever here)"
+    docs = retriever.get_relevant_documents(question)
+    print(f"retrieving works {docs}")
+    
+    if not docs:
+        return "(no relevant context found)"
+
+    context_parts = []
+    for i, doc in enumerate(docs):
+        print(f"--- Doc {i+1} ---")
+        print(f"Metadata: {doc.metadata}")
+        print(f"Content preview: {doc.page_content}...\n")  # first 200 chars
+        context_parts.append(doc.page_content)
+
+    # Join all retrieved document texts into a single string
+    context = "\n\n".join(context_parts)
+    print(context)
+    return context
+
 
 prompt = ChatPromptTemplate.from_template(
     "SYSTEM INSTRUCTION:\n{system}\n\n"
@@ -72,4 +88,10 @@ demo = gr.ChatInterface(
 )
 
 if __name__ == "__main__":
+    data = setup()
+    print("setup works")
+    chunks = chunkingData(data)
+    print("chunking data works")
+    retriever = setup_chroma(chunks)
+    print("setup chroma works")
     demo.launch()
