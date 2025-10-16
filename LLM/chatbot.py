@@ -1,6 +1,6 @@
 from google import genai
 from dotenv import load_dotenv
-import dotenv
+from langchain_community.document_loaders.pdf import PyPDFLoader
 import pydantic
 import os
 import gradio as gr
