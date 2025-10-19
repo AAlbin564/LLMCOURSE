@@ -30,12 +30,12 @@ def get_context(question: str) -> str:
     
     if not docs:
         return "(no relevant context found)"
-
+    print("actual docs")
     context_parts = []
     for i, doc in enumerate(docs):
         print(f"--- Doc {i+1} ---")
         print(f"Metadata: {doc.metadata}")
-        print(f"Content preview: {doc.page_content}...\n")  # first 200 chars
+        print(f"Content preview: {doc.page_content}...\n")  
         context_parts.append(doc.page_content)
 
     # Join all retrieved document texts into a single string
@@ -55,8 +55,8 @@ llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.0)
 chain = (
     {
         "system": RunnableLambda(lambda _: SYSTEM_INSTRUCTION),
-        "context": RunnableLambda(lambda q: get_context(q)),
-        "question": RunnablePassthrough(),
+        "context": RunnableLambda(lambda q: get_context(q["current"])),
+        "question": RunnableLambda(lambda q: q["history"] + "\nUser: " + q["current"]),
     }
     | prompt
     | llm
@@ -72,7 +72,7 @@ def chat_fn(message, history):
     # Add the new user message
     full_input = f"{chat_history_text}\nUser: {message}"
 
-    return chain.invoke(full_input)
+    return chain.invoke({"history":full_input, "current": message})
 
 demo = gr.ChatInterface(
     fn=chat_fn,

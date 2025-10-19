@@ -34,7 +34,7 @@ def setup():
     print(torch.cuda.is_available())
     device = "cuda" if torch.cuda.is_available() else "cpu"  # safe
     #need to wrap this in langchain to use chroma db
-    embeddingModel = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+    embeddingModel = SentenceTransformerEmbeddings(model_name="multi-qa-mpnet-base-dot-v1")
 
     #load and fix
     print(f"loading Data...  from {os.getcwd()}")
@@ -52,7 +52,7 @@ def setup():
 #chunking the data 
 def chunkingData(data):
     text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size = 600,
+    chunk_size = 500,
     chunk_overlap = 30,
     )
     chunks = []
@@ -91,14 +91,7 @@ def setup_chroma(chunks, persist_dir="data/chroma_db", k=10):
     )
 
     retriever = db.as_retriever(
-        search_type="mmr", # Maximum Marginal Relevance, e.g., https://docs.llamaindex.ai/en/stable/examples/vector_stores/SimpleIndexDemoMMR/
-        search_kwargs={'20': 10}
+        search_type="mmr",
+        search_kwargs={'k': 10}
     )
-    query = "matematik är jättekul vilka program innehåller det?"
-    docs = retriever.get_relevant_documents(query)
-    print(f"docs: {docs}")
-    for i, doc in enumerate(docs):
-        print(f"--- Doc {i+1} ---")
-        print(doc.page_content)  # first 300 chars
-        print(doc.metadata)
     return retriever
