@@ -34,18 +34,14 @@ def get_context(question: str) -> str:
     print("actual docs")
     context_parts = []
     for i, doc in enumerate(docs):
-        print(f"--- Doc {i+1} ---")
-        print(f"Metadata: {doc.metadata}")
-        print(f"Content preview: {doc.page_content}...\n")  
         formatted_doc = (
         f"title: {doc.metadata.get('title', 'Unknown')}\n"
         f"url: {doc.metadata.get("url", "unknown")}"
         f"Content: {doc.page_content}"
         )
-        print(f"formatted docs: {formatted_doc}")
         context_parts.append(formatted_doc)
 
-    # Join all retrieved document texts into a single string
+    # join all retrieved stringsg into one context
     context = "\n\n".join(context_parts)
     print(context)
     return context

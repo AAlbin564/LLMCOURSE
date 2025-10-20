@@ -29,12 +29,10 @@ class chunkObject:
         return self.embedding
 #setup and config
 def setup():
+    #inital data setup
     load_dotenv()
     print(torch.__version__)
     print(torch.cuda.is_available())
-    device = "cuda" if torch.cuda.is_available() else "cpu"  # safe
-    #need to wrap this in langchain to use chroma db
-    embeddingModel = SentenceTransformerEmbeddings(model_name="multi-qa-mpnet-base-dot-v1")
 
     #load and fix
     print(f"loading Data...  from {os.getcwd()}")
@@ -49,8 +47,9 @@ def setup():
 
     return data
 
-#chunking the data 
+
 def chunkingData(data):
+    #chunk program descriptions into manageable chunks
     text_splitter = RecursiveCharacterTextSplitter(
     chunk_size = 500,
     chunk_overlap = 30,
@@ -67,13 +66,10 @@ def chunkingData(data):
     return chunks
 
 
-
-# VectorStore wrap em in documents extract embeddings from the chunks and then attach them in the chroma
 def setup_chroma(chunks, persist_dir="data/chroma_db", k=10):
+    #chroma setup 
     print(torch.__version__)
     print(torch.cuda.is_available())
-    device = "cuda" if torch.cuda.is_available() else "cpu"  # safe
-    #need to wrap this in langchain to use chroma db
     embeddingModel = SentenceTransformerEmbeddings(model_name="multi-qa-mpnet-base-dot-v1")
     documents = [
         Document(page_content=c.chunk, metadata={"title": c.title, "url": c.url})
@@ -87,11 +83,11 @@ def setup_chroma(chunks, persist_dir="data/chroma_db", k=10):
         texts=texts,
         embedding=embeddingModel,
         metadatas=metadatas,
-        persist_directory="data/chroma_db"
+        persist_directory= persist_dir
     )
 
     retriever = db.as_retriever(
         search_type="mmr",
-        search_kwargs={'k': 10}
+        search_kwargs={'k': k}
     )
     return retriever
